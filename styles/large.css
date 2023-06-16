@@ -1,0 +1,15 @@
+@media only screen and (min-width: 1109px) {
+
+    nav {
+        line-height: 50px;
+        justify-content:space-evenly ;
+    }
+
+  /*This is the wireframe*/
+ 
+  .wireframe-container-large img {
+    max-width: 32vw;
+  }
+
+    
+    }
